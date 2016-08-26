@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Test3</string>
+
+    <string-array name="country_arrays">
+        <item>I</item>
+        <item>II</item>
+        <item>III</item>
+        <item>IV</item>
+        <item>V</item>
+        <item>VI</item>
+        <item>VII</item>
+        <item>VII</item>
+    </string-array>
+    <string name="lbsem">Select Semester</string>
+    <string name="lblStream">Select Stream</string>
+    <string name="lblSub">Select Subject</string>
+
+    <string-array name="acc_type">
+        <item>Income</item>
+        <item>Expense</item>
+    </string-array>
+
+</resources>
